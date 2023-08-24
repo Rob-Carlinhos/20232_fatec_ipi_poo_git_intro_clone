@@ -1,0 +1,31 @@
+PS C:\Users\aluno\Documents\dev\introducao_git_clone\20232_fatec_ipi_poo_git_intro> git add calculadora.py
+ Committer: Aluno <aluno@IPIRANGA.FATEC>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+PS C:\Users\aluno\Documents\dev\introducao_git_clone\20232_fatec_ipi_poo_git_intro> git add teste_calculadora.py
+PS C:\Users\aluno\Documents\dev\introducao_git_clone\20232_fatec_ipi_poo_git_intro> git commit 
+[main 74dc156]     ap01(git): divisao testada
+ Committer: Aluno <aluno@IPIRANGA.FATEC>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+PS C:\Users\aluno\Documents\dev\introducao_git_clone\20232_fatec_ipi_poo_git_intro> 
